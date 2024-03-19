@@ -1,0 +1,2645 @@
+[
+    {
+        "start": {
+            "@id": "/c/en/suburb/n/wn/location",
+            "@type": "Node",
+            "label": "suburb",
+            "language": "en",
+            "sense_label": "n, location",
+            "term": "/c/en/suburb"
+        },
+        "end": {
+            "@id": "/c/en/residential_district/n/wn/location",
+            "@type": "Node",
+            "label": "residential district",
+            "language": "en",
+            "sense_label": "n, location",
+            "term": "/c/en/residential_district"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/western_skink/n/wn/animal",
+            "@type": "Node",
+            "label": "western skink",
+            "language": "en",
+            "sense_label": "n, animal",
+            "term": "/c/en/western_skink"
+        },
+        "end": {
+            "@id": "/c/en/skink/n/wn/animal",
+            "@type": "Node",
+            "label": "skink",
+            "language": "en",
+            "sense_label": "n, animal",
+            "term": "/c/en/skink"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/inertial_mass/n/wn/physics",
+            "@type": "Node",
+            "label": "inertial mass",
+            "language": "en",
+            "sense_label": "n, physics",
+            "term": "/c/en/inertial_mass"
+        },
+        "end": {
+            "@id": "/c/en/mass/n/wn/attribute",
+            "@type": "Node",
+            "label": "mass",
+            "language": "en",
+            "sense_label": "n, attribute",
+            "term": "/c/en/mass"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/leading_man/n/wn/person",
+            "@type": "Node",
+            "label": "leading man",
+            "language": "en",
+            "sense_label": "n, person",
+            "term": "/c/en/leading_man"
+        },
+        "end": {
+            "@id": "/c/en/actor/n/wn/person",
+            "@type": "Node",
+            "label": "actor",
+            "language": "en",
+            "sense_label": "n, person",
+            "term": "/c/en/actor"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/occasion/n/wn/time",
+            "@type": "Node",
+            "label": "occasion",
+            "language": "en",
+            "sense_label": "n, time",
+            "term": "/c/en/occasion"
+        },
+        "end": {
+            "@id": "/c/en/time/n/wn/time",
+            "@type": "Node",
+            "label": "time",
+            "language": "en",
+            "sense_label": "n, time",
+            "term": "/c/en/time"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/tree_toad/n/wn/animal",
+            "@type": "Node",
+            "label": "tree toad",
+            "language": "en",
+            "sense_label": "n, animal",
+            "term": "/c/en/tree_toad"
+        },
+        "end": {
+            "@id": "/c/en/frog/n/wn/animal",
+            "@type": "Node",
+            "label": "frog",
+            "language": "en",
+            "sense_label": "n, animal",
+            "term": "/c/en/frog"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/petaurista/n/wn/animal",
+            "@type": "Node",
+            "label": "Petaurista",
+            "language": "en",
+            "sense_label": "n, animal",
+            "term": "/c/en/petaurista"
+        },
+        "end": {
+            "@id": "/c/en/mammal_genus/n/wn/animal",
+            "@type": "Node",
+            "label": "mammal genus",
+            "language": "en",
+            "sense_label": "n, animal",
+            "term": "/c/en/mammal_genus"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/torch_singer/n/wn/person",
+            "@type": "Node",
+            "label": "torch singer",
+            "language": "en",
+            "sense_label": "n, person",
+            "term": "/c/en/torch_singer"
+        },
+        "end": {
+            "@id": "/c/en/singer/n/wn/person",
+            "@type": "Node",
+            "label": "singer",
+            "language": "en",
+            "sense_label": "n, person",
+            "term": "/c/en/singer"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/drop_arch/n/wn/artifact",
+            "@type": "Node",
+            "label": "drop arch",
+            "language": "en",
+            "sense_label": "n, artifact",
+            "term": "/c/en/drop_arch"
+        },
+        "end": {
+            "@id": "/c/en/pointed_arch/n/wn/artifact",
+            "@type": "Node",
+            "label": "pointed arch",
+            "language": "en",
+            "sense_label": "n, artifact",
+            "term": "/c/en/pointed_arch"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/rottenstone/n/wn/substance",
+            "@type": "Node",
+            "label": "rottenstone",
+            "language": "en",
+            "sense_label": "n, substance",
+            "term": "/c/en/rottenstone"
+        },
+        "end": {
+            "@id": "/c/en/limestone/n/wn/substance",
+            "@type": "Node",
+            "label": "limestone",
+            "language": "en",
+            "sense_label": "n, substance",
+            "term": "/c/en/limestone"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/scorpionfish/n/wn/animal",
+            "@type": "Node",
+            "label": "scorpionfish",
+            "language": "en",
+            "sense_label": "n, animal",
+            "term": "/c/en/scorpionfish"
+        },
+        "end": {
+            "@id": "/c/en/scorpaenid/n/wn/animal",
+            "@type": "Node",
+            "label": "scorpaenid",
+            "language": "en",
+            "sense_label": "n, animal",
+            "term": "/c/en/scorpaenid"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/temporary_hookup/n/wn/artifact",
+            "@type": "Node",
+            "label": "temporary hookup",
+            "language": "en",
+            "sense_label": "n, artifact",
+            "term": "/c/en/temporary_hookup"
+        },
+        "end": {
+            "@id": "/c/en/connection/n/wn/artifact",
+            "@type": "Node",
+            "label": "connection",
+            "language": "en",
+            "sense_label": "n, artifact",
+            "term": "/c/en/connection"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/acrylic_fiber/n/wn/substance",
+            "@type": "Node",
+            "label": "acrylic fiber",
+            "language": "en",
+            "sense_label": "n, substance",
+            "term": "/c/en/acrylic_fiber"
+        },
+        "end": {
+            "@id": "/c/en/man_made_fiber/n/wn/substance",
+            "@type": "Node",
+            "label": "man-made fiber",
+            "language": "en",
+            "sense_label": "n, substance",
+            "term": "/c/en/man_made_fiber"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/dependence/n/wn/state",
+            "@type": "Node",
+            "label": "dependence",
+            "language": "en",
+            "sense_label": "n, state",
+            "term": "/c/en/dependence"
+        },
+        "end": {
+            "@id": "/c/en/state/n/wn",
+            "@type": "Node",
+            "label": "state",
+            "language": "en",
+            "sense_label": "n, wn",
+            "term": "/c/en/state"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/overhand_pitch/n/wn/act",
+            "@type": "Node",
+            "label": "overhand pitch",
+            "language": "en",
+            "sense_label": "n, act",
+            "term": "/c/en/overhand_pitch"
+        },
+        "end": {
+            "@id": "/c/en/pitch/n/wn/baseball",
+            "@type": "Node",
+            "label": "pitch",
+            "language": "en",
+            "sense_label": "n, baseball",
+            "term": "/c/en/pitch"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/american_spikenard/n/wn/plant",
+            "@type": "Node",
+            "label": "American spikenard",
+            "language": "en",
+            "sense_label": "n, plant",
+            "term": "/c/en/american_spikenard"
+        },
+        "end": {
+            "@id": "/c/en/subshrub/n/wn/plant",
+            "@type": "Node",
+            "label": "subshrub",
+            "language": "en",
+            "sense_label": "n, plant",
+            "term": "/c/en/subshrub"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/hedonist/n/wn/person",
+            "@type": "Node",
+            "label": "hedonist",
+            "language": "en",
+            "sense_label": "n, person",
+            "term": "/c/en/hedonist"
+        },
+        "end": {
+            "@id": "/c/en/sensualist/n/wn/person",
+            "@type": "Node",
+            "label": "sensualist",
+            "language": "en",
+            "sense_label": "n, person",
+            "term": "/c/en/sensualist"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/homecoming/n/wn/act",
+            "@type": "Node",
+            "label": "homecoming",
+            "language": "en",
+            "sense_label": "n, act",
+            "term": "/c/en/homecoming"
+        },
+        "end": {
+            "@id": "/c/en/reunion/n/wn/act",
+            "@type": "Node",
+            "label": "reunion",
+            "language": "en",
+            "sense_label": "n, act",
+            "term": "/c/en/reunion"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/aldrovanda/n/wn/plant",
+            "@type": "Node",
+            "label": "Aldrovanda",
+            "language": "en",
+            "sense_label": "n, plant",
+            "term": "/c/en/aldrovanda"
+        },
+        "end": {
+            "@id": "/c/en/dicot_genus/n/wn/plant",
+            "@type": "Node",
+            "label": "dicot genus",
+            "language": "en",
+            "sense_label": "n, plant",
+            "term": "/c/en/dicot_genus"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/ambystomatidae/n/wn/animal",
+            "@type": "Node",
+            "label": "Ambystomatidae",
+            "language": "en",
+            "sense_label": "n, animal",
+            "term": "/c/en/ambystomatidae"
+        },
+        "end": {
+            "@id": "/c/en/amphibian_family/n/wn/animal",
+            "@type": "Node",
+            "label": "amphibian family",
+            "language": "en",
+            "sense_label": "n, animal",
+            "term": "/c/en/amphibian_family"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/assist/n/wn/ice_hockey",
+            "@type": "Node",
+            "label": "assist",
+            "language": "en",
+            "sense_label": "n, ice_hockey",
+            "term": "/c/en/assist"
+        },
+        "end": {
+            "@id": "/c/en/maneuver/n/wn/act",
+            "@type": "Node",
+            "label": "maneuver",
+            "language": "en",
+            "sense_label": "n, act",
+            "term": "/c/en/maneuver"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/tithe_barn/n/wn/artifact",
+            "@type": "Node",
+            "label": "tithe barn",
+            "language": "en",
+            "sense_label": "n, artifact",
+            "term": "/c/en/tithe_barn"
+        },
+        "end": {
+            "@id": "/c/en/barn/n/wn/artifact",
+            "@type": "Node",
+            "label": "barn",
+            "language": "en",
+            "sense_label": "n, artifact",
+            "term": "/c/en/barn"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/hypsometer/n/wn/artifact",
+            "@type": "Node",
+            "label": "hypsometer",
+            "language": "en",
+            "sense_label": "n, artifact",
+            "term": "/c/en/hypsometer"
+        },
+        "end": {
+            "@id": "/c/en/altimeter/n/wn/artifact",
+            "@type": "Node",
+            "label": "altimeter",
+            "language": "en",
+            "sense_label": "n, artifact",
+            "term": "/c/en/altimeter"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/papyrus/n/wn/communication",
+            "@type": "Node",
+            "label": "papyrus",
+            "language": "en",
+            "sense_label": "n, communication",
+            "term": "/c/en/papyrus"
+        },
+        "end": {
+            "@id": "/c/en/document/n/wn/communication",
+            "@type": "Node",
+            "label": "document",
+            "language": "en",
+            "sense_label": "n, communication",
+            "term": "/c/en/document"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/cacodyl/n/wn/substance",
+            "@type": "Node",
+            "label": "cacodyl",
+            "language": "en",
+            "sense_label": "n, substance",
+            "term": "/c/en/cacodyl"
+        },
+        "end": {
+            "@id": "/c/en/group/n/wn/chemistry",
+            "@type": "Node",
+            "label": "group",
+            "language": "en",
+            "sense_label": "n, chemistry",
+            "term": "/c/en/group"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/penance/n/wn/act",
+            "@type": "Node",
+            "label": "penance",
+            "language": "en",
+            "sense_label": "n, act",
+            "term": "/c/en/penance"
+        },
+        "end": {
+            "@id": "/c/en/sacrament/n/wn/act",
+            "@type": "Node",
+            "label": "sacrament",
+            "language": "en",
+            "sense_label": "n, act",
+            "term": "/c/en/sacrament"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/rule_of_evidence/n/wn/law",
+            "@type": "Node",
+            "label": "rule of evidence",
+            "language": "en",
+            "sense_label": "n, law",
+            "term": "/c/en/rule_of_evidence"
+        },
+        "end": {
+            "@id": "/c/en/rule/n/wn/communication",
+            "@type": "Node",
+            "label": "rule",
+            "language": "en",
+            "sense_label": "n, communication",
+            "term": "/c/en/rule"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/usherette/n/wn/person",
+            "@type": "Node",
+            "label": "usherette",
+            "language": "en",
+            "sense_label": "n, person",
+            "term": "/c/en/usherette"
+        },
+        "end": {
+            "@id": "/c/en/usher/n/wn/person",
+            "@type": "Node",
+            "label": "usher",
+            "language": "en",
+            "sense_label": "n, person",
+            "term": "/c/en/usher"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/hooks/n/wn/body",
+            "@type": "Node",
+            "label": "hooks",
+            "language": "en",
+            "sense_label": "n, body",
+            "term": "/c/en/hooks"
+        },
+        "end": {
+            "@id": "/c/en/hand/n/wn/body",
+            "@type": "Node",
+            "label": "hand",
+            "language": "en",
+            "sense_label": "n, body",
+            "term": "/c/en/hand"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/bilabial/n/wn/communication",
+            "@type": "Node",
+            "label": "bilabial",
+            "language": "en",
+            "sense_label": "n, communication",
+            "term": "/c/en/bilabial"
+        },
+        "end": {
+            "@id": "/c/en/labial_consonant/n/wn/communication",
+            "@type": "Node",
+            "label": "labial consonant",
+            "language": "en",
+            "sense_label": "n, communication",
+            "term": "/c/en/labial_consonant"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/kurdish/n/wn/communication",
+            "@type": "Node",
+            "label": "Kurdish",
+            "language": "en",
+            "sense_label": "n, communication",
+            "term": "/c/en/kurdish"
+        },
+        "end": {
+            "@id": "/c/en/iranian/n/wn/communication",
+            "@type": "Node",
+            "label": "Iranian",
+            "language": "en",
+            "sense_label": "n, communication",
+            "term": "/c/en/iranian"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/theism/n/wn/cognition",
+            "@type": "Node",
+            "label": "theism",
+            "language": "en",
+            "sense_label": "n, cognition",
+            "term": "/c/en/theism"
+        },
+        "end": {
+            "@id": "/c/en/religion/n/wn/cognition",
+            "@type": "Node",
+            "label": "religion",
+            "language": "en",
+            "sense_label": "n, cognition",
+            "term": "/c/en/religion"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/aristocrat/n/wn/person",
+            "@type": "Node",
+            "label": "aristocrat",
+            "language": "en",
+            "sense_label": "n, person",
+            "term": "/c/en/aristocrat"
+        },
+        "end": {
+            "@id": "/c/en/leader/n/wn/person",
+            "@type": "Node",
+            "label": "leader",
+            "language": "en",
+            "sense_label": "n, person",
+            "term": "/c/en/leader"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/bundesbank/n/wn/group",
+            "@type": "Node",
+            "label": "Bundesbank",
+            "language": "en",
+            "sense_label": "n, group",
+            "term": "/c/en/bundesbank"
+        },
+        "end": {
+            "@id": "/c/en/central_bank/n/wn/group",
+            "@type": "Node",
+            "label": "central bank",
+            "language": "en",
+            "sense_label": "n, group",
+            "term": "/c/en/central_bank"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/skirt",
+            "@type": "Node",
+            "label": "a skirt",
+            "language": "en",
+            "term": "/c/en/skirt"
+        },
+        "end": {
+            "@id": "/c/en/form_of_female_attire",
+            "@type": "Node",
+            "label": "a form of female attire",
+            "language": "en",
+            "term": "/c/en/form_of_female_attire"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/yardarm/n/wn/artifact",
+            "@type": "Node",
+            "label": "yardarm",
+            "language": "en",
+            "sense_label": "n, artifact",
+            "term": "/c/en/yardarm"
+        },
+        "end": {
+            "@id": "/c/en/end/n/wn/location",
+            "@type": "Node",
+            "label": "end",
+            "language": "en",
+            "sense_label": "n, location",
+            "term": "/c/en/end"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/supreme_court/n/wn/law",
+            "@type": "Node",
+            "label": "Supreme Court",
+            "language": "en",
+            "sense_label": "n, law",
+            "term": "/c/en/supreme_court"
+        },
+        "end": {
+            "@id": "/c/en/federal_court/n/wn/group",
+            "@type": "Node",
+            "label": "federal court",
+            "language": "en",
+            "sense_label": "n, group",
+            "term": "/c/en/federal_court"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/dill_seed/n/wn/food",
+            "@type": "Node",
+            "label": "dill seed",
+            "language": "en",
+            "sense_label": "n, food",
+            "term": "/c/en/dill_seed"
+        },
+        "end": {
+            "@id": "/c/en/flavorer/n/wn/food",
+            "@type": "Node",
+            "label": "flavorer",
+            "language": "en",
+            "sense_label": "n, food",
+            "term": "/c/en/flavorer"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/apple_juice/n/wn/food",
+            "@type": "Node",
+            "label": "apple juice",
+            "language": "en",
+            "sense_label": "n, food",
+            "term": "/c/en/apple_juice"
+        },
+        "end": {
+            "@id": "/c/en/fruit_juice/n/wn/food",
+            "@type": "Node",
+            "label": "fruit juice",
+            "language": "en",
+            "sense_label": "n, food",
+            "term": "/c/en/fruit_juice"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/apple_juice",
+            "@type": "Node",
+            "label": "apple juice",
+            "language": "en",
+            "term": "/c/en/apple_juice"
+        },
+        "end": {
+            "@id": "/c/en/fattening",
+            "@type": "Node",
+            "label": "fattening",
+            "language": "en",
+            "term": "/c/en/fattening"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/apple_juice/n",
+            "@type": "Node",
+            "label": "apple juice",
+            "language": "en",
+            "sense_label": "n",
+            "term": "/c/en/apple_juice"
+        },
+        "end": {
+            "@id": "/c/en/juice/n",
+            "@type": "Node",
+            "label": "juice",
+            "language": "en",
+            "sense_label": "n",
+            "term": "/c/en/juice"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/apple_juice",
+            "@type": "Node",
+            "label": "apple juice",
+            "language": "en",
+            "term": "/c/en/apple_juice"
+        },
+        "end": {
+            "@id": "/c/en/tastier_than_water",
+            "@type": "Node",
+            "label": "tastier than water",
+            "language": "en",
+            "term": "/c/en/tastier_than_water"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/apple_juice/n",
+            "@type": "Node",
+            "label": "apple juice",
+            "language": "en",
+            "sense_label": "n",
+            "term": "/c/en/apple_juice"
+        },
+        "end": {
+            "@id": "/c/en/mixture/n",
+            "@type": "Node",
+            "label": "mixture",
+            "language": "en",
+            "sense_label": "n",
+            "term": "/c/en/mixture"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/apple_juice",
+            "@type": "Node",
+            "label": "Apple juice",
+            "language": "en",
+            "term": "/c/en/apple_juice"
+        },
+        "end": {
+            "@id": "/c/en/good_thirst_quencher",
+            "@type": "Node",
+            "label": "a good thirst quencher",
+            "language": "en",
+            "term": "/c/en/good_thirst_quencher"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/apple_juice/n",
+            "@type": "Node",
+            "label": "apple juice",
+            "language": "en",
+            "sense_label": "n",
+            "term": "/c/en/apple_juice"
+        },
+        "end": {
+            "@id": "/c/en/beverage/n",
+            "@type": "Node",
+            "label": "beverage",
+            "language": "en",
+            "sense_label": "n",
+            "term": "/c/en/beverage"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/apple_juice/n",
+            "@type": "Node",
+            "label": "apple juice",
+            "language": "en",
+            "sense_label": "n",
+            "term": "/c/en/apple_juice"
+        },
+        "end": {
+            "@id": "/c/en/sweet_thing/n",
+            "@type": "Node",
+            "label": "sweet thing",
+            "language": "en",
+            "sense_label": "n",
+            "term": "/c/en/sweet_thing"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/apple_juice/n",
+            "@type": "Node",
+            "label": "apple juice",
+            "language": "en",
+            "sense_label": "n",
+            "term": "/c/en/apple_juice"
+        },
+        "end": {
+            "@id": "/c/en/fruit_juice",
+            "@type": "Node",
+            "label": "fruit juice",
+            "language": "en",
+            "term": "/c/en/fruit_juice"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/corn_chips",
+            "@type": "Node",
+            "label": "Corn chips",
+            "language": "en",
+            "term": "/c/en/corn_chips"
+        },
+        "end": {
+            "@id": "/c/en/crunchy",
+            "@type": "Node",
+            "label": "crunchy",
+            "language": "en",
+            "term": "/c/en/crunchy"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/measuring_cup/n/wn/artifact",
+            "@type": "Node",
+            "label": "measuring cup",
+            "language": "en",
+            "sense_label": "n, artifact",
+            "term": "/c/en/measuring_cup"
+        },
+        "end": {
+            "@id": "/c/en/measure/n/wn/artifact",
+            "@type": "Node",
+            "label": "measure",
+            "language": "en",
+            "sense_label": "n, artifact",
+            "term": "/c/en/measure"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/measuring_cup/n",
+            "@type": "Node",
+            "label": "measuring cup",
+            "language": "en",
+            "sense_label": "n",
+            "term": "/c/en/measuring_cup"
+        },
+        "end": {
+            "@id": "/c/en/measuring_device/n",
+            "@type": "Node",
+            "label": "measuring device",
+            "language": "en",
+            "sense_label": "n",
+            "term": "/c/en/measuring_device"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/measuring_cup/n",
+            "@type": "Node",
+            "label": "measuring cup",
+            "language": "en",
+            "sense_label": "n",
+            "term": "/c/en/measuring_cup"
+        },
+        "end": {
+            "@id": "/c/en/kitchenware/n",
+            "@type": "Node",
+            "label": "kitchenware",
+            "language": "en",
+            "sense_label": "n",
+            "term": "/c/en/kitchenware"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/measuring_cup/n",
+            "@type": "Node",
+            "label": "measuring cup",
+            "language": "en",
+            "sense_label": "n",
+            "term": "/c/en/measuring_cup"
+        },
+        "end": {
+            "@id": "/c/en/food_vessel/n",
+            "@type": "Node",
+            "label": "food vessel",
+            "language": "en",
+            "sense_label": "n",
+            "term": "/c/en/food_vessel"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/measuring_cup/n",
+            "@type": "Node",
+            "label": "measuring cup",
+            "language": "en",
+            "sense_label": "n",
+            "term": "/c/en/measuring_cup"
+        },
+        "end": {
+            "@id": "/c/en/volume_measuring_device/n",
+            "@type": "Node",
+            "label": "volume measuring device",
+            "language": "en",
+            "sense_label": "n",
+            "term": "/c/en/volume_measuring_device"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/mozzarella_cheese/n",
+            "@type": "Node",
+            "label": "mozzarella cheese",
+            "language": "en",
+            "sense_label": "n",
+            "term": "/c/en/mozzarella_cheese"
+        },
+        "end": {
+            "@id": "/c/en/cheese/n",
+            "@type": "Node",
+            "label": "cheese",
+            "language": "en",
+            "sense_label": "n",
+            "term": "/c/en/cheese"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/whipped_cream/n/wn/food",
+            "@type": "Node",
+            "label": "whipped cream",
+            "language": "en",
+            "sense_label": "n, food",
+            "term": "/c/en/whipped_cream"
+        },
+        "end": {
+            "@id": "/c/en/topping/n/wn/food",
+            "@type": "Node",
+            "label": "topping",
+            "language": "en",
+            "sense_label": "n, food",
+            "term": "/c/en/topping"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/whipped_cream",
+            "@type": "Node",
+            "label": "Whipped cream",
+            "language": "en",
+            "term": "/c/en/whipped_cream"
+        },
+        "end": {
+            "@id": "/c/en/not_good_nutrition_for_dog",
+            "@type": "Node",
+            "label": "not good nutrition for a dog",
+            "language": "en",
+            "term": "/c/en/not_good_nutrition_for_dog"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/whipped_cream/n",
+            "@type": "Node",
+            "label": "whipped cream",
+            "language": "en",
+            "sense_label": "n",
+            "term": "/c/en/whipped_cream"
+        },
+        "end": {
+            "@id": "/c/en/foam/n",
+            "@type": "Node",
+            "label": "foam",
+            "language": "en",
+            "sense_label": "n",
+            "term": "/c/en/foam"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/whipped_cream/n",
+            "@type": "Node",
+            "label": "whipped cream",
+            "language": "en",
+            "sense_label": "n",
+            "term": "/c/en/whipped_cream"
+        },
+        "end": {
+            "@id": "/c/en/dairy_product/n",
+            "@type": "Node",
+            "label": "dairy product",
+            "language": "en",
+            "sense_label": "n",
+            "term": "/c/en/dairy_product"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/whipped_cream/n",
+            "@type": "Node",
+            "label": "whipped cream",
+            "language": "en",
+            "sense_label": "n",
+            "term": "/c/en/whipped_cream"
+        },
+        "end": {
+            "@id": "/c/en/edible_thing/n",
+            "@type": "Node",
+            "label": "edible thing",
+            "language": "en",
+            "sense_label": "n",
+            "term": "/c/en/edible_thing"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/whipped_cream",
+            "@type": "Node",
+            "label": "whipped cream",
+            "language": "en",
+            "term": "/c/en/whipped_cream"
+        },
+        "end": {
+            "@id": "/c/en/food/n",
+            "@type": "Node",
+            "label": "food",
+            "language": "en",
+            "sense_label": "n",
+            "term": "/c/en/food"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/bigoli",
+            "@type": "Node",
+            "label": "bigoli",
+            "language": "en",
+            "term": "/c/en/bigoli"
+        },
+        "end": {
+            "@id": "/c/en/food/n",
+            "@type": "Node",
+            "label": "food",
+            "language": "en",
+            "sense_label": "n",
+            "term": "/c/en/food"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/little_barley/n/wn/plant",
+            "@type": "Node",
+            "label": "little barley",
+            "language": "en",
+            "sense_label": "n, plant",
+            "term": "/c/en/little_barley"
+        },
+        "end": {
+            "@id": "/c/en/barley/n/wn/plant",
+            "@type": "Node",
+            "label": "barley",
+            "language": "en",
+            "sense_label": "n, plant",
+            "term": "/c/en/barley"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/squirreltail_barley/n/wn/plant",
+            "@type": "Node",
+            "label": "squirreltail barley",
+            "language": "en",
+            "sense_label": "n, plant",
+            "term": "/c/en/squirreltail_barley"
+        },
+        "end": {
+            "@id": "/c/en/barley/n/wn/plant",
+            "@type": "Node",
+            "label": "barley",
+            "language": "en",
+            "sense_label": "n, plant",
+            "term": "/c/en/barley"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/barley/n/wn/plant",
+            "@type": "Node",
+            "label": "barley",
+            "language": "en",
+            "sense_label": "n, plant",
+            "term": "/c/en/barley"
+        },
+        "end": {
+            "@id": "/c/en/cereal/n/wn/plant",
+            "@type": "Node",
+            "label": "cereal",
+            "language": "en",
+            "sense_label": "n, plant",
+            "term": "/c/en/cereal"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/common_barley/n/wn/plant",
+            "@type": "Node",
+            "label": "common barley",
+            "language": "en",
+            "sense_label": "n, plant",
+            "term": "/c/en/common_barley"
+        },
+        "end": {
+            "@id": "/c/en/barley/n/wn/plant",
+            "@type": "Node",
+            "label": "barley",
+            "language": "en",
+            "sense_label": "n, plant",
+            "term": "/c/en/barley"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/pearl_barley/n/wn/food",
+            "@type": "Node",
+            "label": "pearl barley",
+            "language": "en",
+            "sense_label": "n, food",
+            "term": "/c/en/pearl_barley"
+        },
+        "end": {
+            "@id": "/c/en/barley/n/wn/food",
+            "@type": "Node",
+            "label": "barley",
+            "language": "en",
+            "sense_label": "n, food",
+            "term": "/c/en/barley"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/barley/n/wn/food",
+            "@type": "Node",
+            "label": "barley",
+            "language": "en",
+            "sense_label": "n, food",
+            "term": "/c/en/barley"
+        },
+        "end": {
+            "@id": "/c/en/grain/n/wn/food",
+            "@type": "Node",
+            "label": "grain",
+            "language": "en",
+            "sense_label": "n, food",
+            "term": "/c/en/grain"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/barley_grass/n/wn/plant",
+            "@type": "Node",
+            "label": "barley grass",
+            "language": "en",
+            "sense_label": "n, plant",
+            "term": "/c/en/barley_grass"
+        },
+        "end": {
+            "@id": "/c/en/barley/n/wn/plant",
+            "@type": "Node",
+            "label": "barley",
+            "language": "en",
+            "sense_label": "n, plant",
+            "term": "/c/en/barley"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/barley/n/opencyc/barley_grain",
+            "@type": "Node",
+            "label": "barley",
+            "language": "en",
+            "sense_label": "n",
+            "term": "/c/en/barley"
+        },
+        "end": {
+            "@id": "/c/en/cereal_grain/n/opencyc/grain_of_cereal",
+            "@type": "Node",
+            "label": "cereal grain",
+            "language": "en",
+            "sense_label": "n",
+            "term": "/c/en/cereal_grain"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/barley/n",
+            "@type": "Node",
+            "label": "barley",
+            "language": "en",
+            "sense_label": "n",
+            "term": "/c/en/barley"
+        },
+        "end": {
+            "@id": "/c/en/grain",
+            "@type": "Node",
+            "label": "grain",
+            "language": "en",
+            "term": "/c/en/grain"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/barley/n/opencyc/barley_plant",
+            "@type": "Node",
+            "label": "barley",
+            "language": "en",
+            "sense_label": "n",
+            "term": "/c/en/barley"
+        },
+        "end": {
+            "@id": "/c/en/cereal_plant/n",
+            "@type": "Node",
+            "label": "cereal plant",
+            "language": "en",
+            "sense_label": "n",
+            "term": "/c/en/cereal_plant"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/barley",
+            "@type": "Node",
+            "label": "barley",
+            "language": "en",
+            "term": "/c/en/barley"
+        },
+        "end": {
+            "@id": "/c/en/plant/n",
+            "@type": "Node",
+            "label": "plant",
+            "language": "en",
+            "sense_label": "n",
+            "term": "/c/en/plant"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/canola_oil/n/wn/food",
+            "@type": "Node",
+            "label": "canola oil",
+            "language": "en",
+            "sense_label": "n, food",
+            "term": "/c/en/canola_oil"
+        },
+        "end": {
+            "@id": "/c/en/vegetable_oil/n/wn/food",
+            "@type": "Node",
+            "label": "vegetable oil",
+            "language": "en",
+            "sense_label": "n, food",
+            "term": "/c/en/vegetable_oil"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/frogs",
+            "@type": "Node",
+            "label": "Frogs",
+            "language": "en",
+            "term": "/c/en/frogs"
+        },
+        "end": {
+            "@id": "/c/en/animals",
+            "@type": "Node",
+            "label": "animals",
+            "language": "en",
+            "term": "/c/en/animals"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/frogs",
+            "@type": "Node",
+            "label": "frogs",
+            "language": "en",
+            "term": "/c/en/frogs"
+        },
+        "end": {
+            "@id": "/c/en/amphibians",
+            "@type": "Node",
+            "label": "amphibians",
+            "language": "en",
+            "term": "/c/en/amphibians"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/frogs",
+            "@type": "Node",
+            "label": "Frogs",
+            "language": "en",
+            "term": "/c/en/frogs"
+        },
+        "end": {
+            "@id": "/c/en/disappearing_from_earth",
+            "@type": "Node",
+            "label": "disappearing from the earth",
+            "language": "en",
+            "term": "/c/en/disappearing_from_earth"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/frogs",
+            "@type": "Node",
+            "label": "Frogs",
+            "language": "en",
+            "term": "/c/en/frogs"
+        },
+        "end": {
+            "@id": "/c/en/not_invertebrates",
+            "@type": "Node",
+            "label": "not invertebrates",
+            "language": "en",
+            "term": "/c/en/not_invertebrates"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/frogs",
+            "@type": "Node",
+            "label": "Frogs",
+            "language": "en",
+            "term": "/c/en/frogs"
+        },
+        "end": {
+            "@id": "/c/en/amphibian_animals",
+            "@type": "Node",
+            "label": "amphibian animals",
+            "language": "en",
+            "term": "/c/en/amphibian_animals"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/frogs",
+            "@type": "Node",
+            "label": "Frogs",
+            "language": "en",
+            "term": "/c/en/frogs"
+        },
+        "end": {
+            "@id": "/c/en/disappearing",
+            "@type": "Node",
+            "label": "disappearing",
+            "language": "en",
+            "term": "/c/en/disappearing"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/frogs",
+            "@type": "Node",
+            "label": "frogs",
+            "language": "en",
+            "term": "/c/en/frogs"
+        },
+        "end": {
+            "@id": "/c/en/play/n",
+            "@type": "Node",
+            "label": "play",
+            "language": "en",
+            "sense_label": "n",
+            "term": "/c/en/play"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/fructose/n/wn/substance",
+            "@type": "Node",
+            "label": "fructose",
+            "language": "en",
+            "sense_label": "n, substance",
+            "term": "/c/en/fructose"
+        },
+        "end": {
+            "@id": "/c/en/ketohexose/n/wn/substance",
+            "@type": "Node",
+            "label": "ketohexose",
+            "language": "en",
+            "sense_label": "n, substance",
+            "term": "/c/en/ketohexose"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/levulose/n",
+            "@type": "Node",
+            "label": "levulose",
+            "language": "en",
+            "sense_label": "n",
+            "term": "/c/en/levulose"
+        },
+        "end": {
+            "@id": "/c/en/fructose",
+            "@type": "Node",
+            "label": "fructose",
+            "language": "en",
+            "term": "/c/en/fructose"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/fructose",
+            "@type": "Node",
+            "label": "fructose",
+            "language": "en",
+            "term": "/c/en/fructose"
+        },
+        "end": {
+            "@id": "/c/en/sugar",
+            "@type": "Node",
+            "label": "sugar",
+            "language": "en",
+            "term": "/c/en/sugar"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/fructose/n",
+            "@type": "Node",
+            "label": "fructose",
+            "language": "en",
+            "sense_label": "n",
+            "term": "/c/en/fructose"
+        },
+        "end": {
+            "@id": "/c/en/ketohexose/n",
+            "@type": "Node",
+            "label": "ketohexose",
+            "language": "en",
+            "sense_label": "n",
+            "term": "/c/en/ketohexose"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/fructose_molecule/n",
+            "@type": "Node",
+            "label": "fructose molecule",
+            "language": "en",
+            "sense_label": "n",
+            "term": "/c/en/fructose_molecule"
+        },
+        "end": {
+            "@id": "/c/en/fructose/n",
+            "@type": "Node",
+            "label": "fructose",
+            "language": "en",
+            "sense_label": "n",
+            "term": "/c/en/fructose"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/levoglucose",
+            "@type": "Node",
+            "label": "levoglucose",
+            "language": "en",
+            "term": "/c/en/levoglucose"
+        },
+        "end": {
+            "@id": "/c/en/fructose/n",
+            "@type": "Node",
+            "label": "fructose",
+            "language": "en",
+            "sense_label": "n",
+            "term": "/c/en/fructose"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/fructose/n",
+            "@type": "Node",
+            "label": "fructose",
+            "language": "en",
+            "sense_label": "n",
+            "term": "/c/en/fructose"
+        },
+        "end": {
+            "@id": "/c/en/sugar/n",
+            "@type": "Node",
+            "label": "sugar",
+            "language": "en",
+            "sense_label": "n",
+            "term": "/c/en/sugar"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/d_fructose",
+            "@type": "Node",
+            "label": "d fructose",
+            "language": "en",
+            "term": "/c/en/d_fructose"
+        },
+        "end": {
+            "@id": "/c/en/fructose/n",
+            "@type": "Node",
+            "label": "fructose",
+            "language": "en",
+            "sense_label": "n",
+            "term": "/c/en/fructose"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/fructose/n",
+            "@type": "Node",
+            "label": "fructose",
+            "language": "en",
+            "sense_label": "n",
+            "term": "/c/en/fructose"
+        },
+        "end": {
+            "@id": "/c/en/hexose",
+            "@type": "Node",
+            "label": "hexose",
+            "language": "en",
+            "term": "/c/en/hexose"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/fructose/n",
+            "@type": "Node",
+            "label": "fructose",
+            "language": "en",
+            "sense_label": "n",
+            "term": "/c/en/fructose"
+        },
+        "end": {
+            "@id": "/c/en/monosaccharide",
+            "@type": "Node",
+            "label": "monosaccharide",
+            "language": "en",
+            "term": "/c/en/monosaccharide"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/l_fructose",
+            "@type": "Node",
+            "label": "l fructose",
+            "language": "en",
+            "term": "/c/en/l_fructose"
+        },
+        "end": {
+            "@id": "/c/en/fructose/n",
+            "@type": "Node",
+            "label": "fructose",
+            "language": "en",
+            "sense_label": "n",
+            "term": "/c/en/fructose"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/l\u00e6vulose",
+            "@type": "Node",
+            "label": "l\u00e6vulose",
+            "language": "en",
+            "term": "/c/en/l\u00e6vulose"
+        },
+        "end": {
+            "@id": "/c/en/fructose/n",
+            "@type": "Node",
+            "label": "fructose",
+            "language": "en",
+            "sense_label": "n",
+            "term": "/c/en/fructose"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/fructose/n",
+            "@type": "Node",
+            "label": "fructose",
+            "language": "en",
+            "sense_label": "n",
+            "term": "/c/en/fructose"
+        },
+        "end": {
+            "@id": "/c/en/plant_product/n",
+            "@type": "Node",
+            "label": "plant product",
+            "language": "en",
+            "sense_label": "n",
+            "term": "/c/en/plant_product"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/fructose/n",
+            "@type": "Node",
+            "label": "fructose",
+            "language": "en",
+            "sense_label": "n",
+            "term": "/c/en/fructose"
+        },
+        "end": {
+            "@id": "/c/en/ketohexose",
+            "@type": "Node",
+            "label": "ketohexose",
+            "language": "en",
+            "term": "/c/en/ketohexose"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/fructose",
+            "@type": "Node",
+            "label": "fructose",
+            "language": "en",
+            "term": "/c/en/fructose"
+        },
+        "end": {
+            "@id": "/c/en/chemical_compound/n",
+            "@type": "Node",
+            "label": "chemical compound",
+            "language": "en",
+            "sense_label": "n",
+            "term": "/c/en/chemical_compound"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/royal_icing",
+            "@type": "Node",
+            "label": "royal icing",
+            "language": "en",
+            "term": "/c/en/royal_icing"
+        },
+        "end": {
+            "@id": "/c/en/food/n",
+            "@type": "Node",
+            "label": "food",
+            "language": "en",
+            "sense_label": "n",
+            "term": "/c/en/food"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/habanero/n",
+            "@type": "Node",
+            "label": "habanero",
+            "language": "en",
+            "sense_label": "n",
+            "term": "/c/en/habanero"
+        },
+        "end": {
+            "@id": "/c/en/chili_pepper/n",
+            "@type": "Node",
+            "label": "chili pepper",
+            "language": "en",
+            "sense_label": "n",
+            "term": "/c/en/chili_pepper"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/habanero",
+            "@type": "Node",
+            "label": "Habanero",
+            "language": "en",
+            "term": "/c/en/habanero"
+        },
+        "end": {
+            "@id": "/c/en/chili",
+            "@type": "Node",
+            "label": "chili",
+            "language": "en",
+            "term": "/c/en/chili"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/habanero/n",
+            "@type": "Node",
+            "label": "habanero",
+            "language": "en",
+            "sense_label": "n",
+            "term": "/c/en/habanero"
+        },
+        "end": {
+            "@id": "/c/en/spicy_pepper/n",
+            "@type": "Node",
+            "label": "spicy pepper",
+            "language": "en",
+            "sense_label": "n",
+            "term": "/c/en/spicy_pepper"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/habanero",
+            "@type": "Node",
+            "label": "habanero",
+            "language": "en",
+            "term": "/c/en/habanero"
+        },
+        "end": {
+            "@id": "/c/en/cultivated_variety/n",
+            "@type": "Node",
+            "label": "cultivated variety",
+            "language": "en",
+            "sense_label": "n",
+            "term": "/c/en/cultivated_variety"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/instant_coffee/n/wn/food",
+            "@type": "Node",
+            "label": "instant coffee",
+            "language": "en",
+            "sense_label": "n, food",
+            "term": "/c/en/instant_coffee"
+        },
+        "end": {
+            "@id": "/c/en/coffee/n/wn/food",
+            "@type": "Node",
+            "label": "coffee",
+            "language": "en",
+            "sense_label": "n, food",
+            "term": "/c/en/coffee"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/instant_coffee/n",
+            "@type": "Node",
+            "label": "instant coffee",
+            "language": "en",
+            "sense_label": "n",
+            "term": "/c/en/instant_coffee"
+        },
+        "end": {
+            "@id": "/c/en/food_ingredient/n",
+            "@type": "Node",
+            "label": "food ingredient",
+            "language": "en",
+            "sense_label": "n",
+            "term": "/c/en/food_ingredient"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/instant_coffee/n",
+            "@type": "Node",
+            "label": "instant coffee",
+            "language": "en",
+            "sense_label": "n",
+            "term": "/c/en/instant_coffee"
+        },
+        "end": {
+            "@id": "/c/en/granular_thing/n",
+            "@type": "Node",
+            "label": "granular thing",
+            "language": "en",
+            "sense_label": "n",
+            "term": "/c/en/granular_thing"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/instant_coffee/n",
+            "@type": "Node",
+            "label": "instant coffee",
+            "language": "en",
+            "sense_label": "n",
+            "term": "/c/en/instant_coffee"
+        },
+        "end": {
+            "@id": "/c/en/plant_product/n",
+            "@type": "Node",
+            "label": "plant product",
+            "language": "en",
+            "sense_label": "n",
+            "term": "/c/en/plant_product"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/hyson/n/wn/food",
+            "@type": "Node",
+            "label": "hyson",
+            "language": "en",
+            "sense_label": "n, food",
+            "term": "/c/en/hyson"
+        },
+        "end": {
+            "@id": "/c/en/green_tea/n/wn/food",
+            "@type": "Node",
+            "label": "green tea",
+            "language": "en",
+            "sense_label": "n, food",
+            "term": "/c/en/green_tea"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/green_tea/n/wn/food",
+            "@type": "Node",
+            "label": "green tea",
+            "language": "en",
+            "sense_label": "n, food",
+            "term": "/c/en/green_tea"
+        },
+        "end": {
+            "@id": "/c/en/tea/n/wn/food",
+            "@type": "Node",
+            "label": "tea",
+            "language": "en",
+            "sense_label": "n, food",
+            "term": "/c/en/tea"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/green_tea",
+            "@type": "Node",
+            "label": "Green tea",
+            "language": "en",
+            "term": "/c/en/green_tea"
+        },
+        "end": {
+            "@id": "/c/en/one_variety_of_tea",
+            "@type": "Node",
+            "label": "one variety of tea",
+            "language": "en",
+            "term": "/c/en/one_variety_of_tea"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/erythritol",
+            "@type": "Node",
+            "label": "erythritol",
+            "language": "en",
+            "term": "/c/en/erythritol"
+        },
+        "end": {
+            "@id": "/c/en/chemical_compound/n",
+            "@type": "Node",
+            "label": "chemical compound",
+            "language": "en",
+            "sense_label": "n",
+            "term": "/c/en/chemical_compound"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/schmaltz/n/wn/yiddish",
+            "@type": "Node",
+            "label": "schmaltz",
+            "language": "en",
+            "sense_label": "n, yiddish",
+            "term": "/c/en/schmaltz"
+        },
+        "end": {
+            "@id": "/c/en/mawkishness/n/wn/attribute",
+            "@type": "Node",
+            "label": "mawkishness",
+            "language": "en",
+            "sense_label": "n, attribute",
+            "term": "/c/en/mawkishness"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/yeast_cake/n/wn/food",
+            "@type": "Node",
+            "label": "yeast cake",
+            "language": "en",
+            "sense_label": "n, food",
+            "term": "/c/en/yeast_cake"
+        },
+        "end": {
+            "@id": "/c/en/yeast/n/wn/substance",
+            "@type": "Node",
+            "label": "yeast",
+            "language": "en",
+            "sense_label": "n, substance",
+            "term": "/c/en/yeast"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/crouton/n/wn/food",
+            "@type": "Node",
+            "label": "crouton",
+            "language": "en",
+            "sense_label": "n, food",
+            "term": "/c/en/crouton"
+        },
+        "end": {
+            "@id": "/c/en/bread/n/wn/food",
+            "@type": "Node",
+            "label": "bread",
+            "language": "en",
+            "sense_label": "n, food",
+            "term": "/c/en/bread"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/garlic_crouton/n",
+            "@type": "Node",
+            "label": "garlic crouton",
+            "language": "en",
+            "sense_label": "n",
+            "term": "/c/en/garlic_crouton"
+        },
+        "end": {
+            "@id": "/c/en/crouton/n",
+            "@type": "Node",
+            "label": "crouton",
+            "language": "en",
+            "sense_label": "n",
+            "term": "/c/en/crouton"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/crouton/n",
+            "@type": "Node",
+            "label": "crouton",
+            "language": "en",
+            "sense_label": "n",
+            "term": "/c/en/crouton"
+        },
+        "end": {
+            "@id": "/c/en/bread/n",
+            "@type": "Node",
+            "label": "bread",
+            "language": "en",
+            "sense_label": "n",
+            "term": "/c/en/bread"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/crouton/n",
+            "@type": "Node",
+            "label": "crouton",
+            "language": "en",
+            "sense_label": "n",
+            "term": "/c/en/crouton"
+        },
+        "end": {
+            "@id": "/c/en/salty_thing/n",
+            "@type": "Node",
+            "label": "salty thing",
+            "language": "en",
+            "sense_label": "n",
+            "term": "/c/en/salty_thing"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/bartram_juneberry/n/wn/plant",
+            "@type": "Node",
+            "label": "Bartram Juneberry",
+            "language": "en",
+            "sense_label": "n, plant",
+            "term": "/c/en/bartram_juneberry"
+        },
+        "end": {
+            "@id": "/c/en/juneberry/n/wn/plant",
+            "@type": "Node",
+            "label": "Juneberry",
+            "language": "en",
+            "sense_label": "n, plant",
+            "term": "/c/en/juneberry"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/juneberry/n/wn/plant",
+            "@type": "Node",
+            "label": "Juneberry",
+            "language": "en",
+            "sense_label": "n, plant",
+            "term": "/c/en/juneberry"
+        },
+        "end": {
+            "@id": "/c/en/shrub/n/wn/plant",
+            "@type": "Node",
+            "label": "shrub",
+            "language": "en",
+            "sense_label": "n, plant",
+            "term": "/c/en/shrub"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    },
+    {
+        "start": {
+            "@id": "/c/en/alderleaf_juneberry/n/wn/plant",
+            "@type": "Node",
+            "label": "alderleaf Juneberry",
+            "language": "en",
+            "sense_label": "n, plant",
+            "term": "/c/en/alderleaf_juneberry"
+        },
+        "end": {
+            "@id": "/c/en/juneberry/n/wn/plant",
+            "@type": "Node",
+            "label": "Juneberry",
+            "language": "en",
+            "sense_label": "n, plant",
+            "term": "/c/en/juneberry"
+        },
+        "rel": {
+            "@id": "/r/IsA",
+            "@type": "Relation",
+            "label": "IsA"
+        }
+    }
+]

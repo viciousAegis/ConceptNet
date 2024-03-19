@@ -45,7 +45,7 @@ def main():
         json.dump([], file, indent=4) # empty list
     
     with open("food_stats.json", "w") as file:
-        json.dump(food_dict, file, indent=4)
+        json.dump({}, file, indent=4)
     
     for food in food_set:
         print(food)
