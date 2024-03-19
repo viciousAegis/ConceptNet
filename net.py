@@ -51,6 +51,11 @@ def main():
         print(food)
         obj = query_item(food)
         if obj is None:
+            with open("food_stats.json", "r") as file:
+                food_dict = json.load(file)
+            food_dict[food] = 0
+            with open("food_stats.json", "w") as file:
+                json.dump(food_dict, file, indent=4)
             print(f"Could not find data for {food}")
             continue
         print(f"Found data for {food}")
